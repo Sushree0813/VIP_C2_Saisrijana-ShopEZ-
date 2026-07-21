@@ -45,10 +45,6 @@ Source code, documentation, phase-wise templates, and screenshots are available 
 
 Demo Link:https://drive.google.com/drive/folders/1wGG3sbJBm3irgnOdHQfDqPixEr5xDHhL?usp=sharing 
 
- Developed by 
-
-Saisrijana
-
 Conclusion
 
 ShopEZ provides a user-friendly and secure online shopping platform developed using the MERN Stack. This project demonstrates full-stack web development, database integration, authentication, and e-commerce functionalities.
