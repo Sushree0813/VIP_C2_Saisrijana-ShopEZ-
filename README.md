@@ -47,7 +47,7 @@ Demo Link:https://drive.google.com/drive/folders/1wGG3sbJBm3irgnOdHQfDqPixEr5xDH
 
  Developed by 
 
-Saisrijana
+Sushree Sangeetha Nayak
 
 Conclusion
 
